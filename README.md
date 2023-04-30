@@ -9,4 +9,3 @@ Hi UwU
 
 # Add features
 - Neurons stochastically firing
-- 
