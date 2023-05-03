@@ -1,5 +1,3 @@
-Hi UwU
-
 # Validation Steps
 - Remove LMAN, see what happens
 - See if Hebbian Weights change to something intresting 
